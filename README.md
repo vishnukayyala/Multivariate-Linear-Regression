@@ -21,8 +21,8 @@ Print the predicted output.
 
 ## Program:
 ```
-Developed by: STEPHEN RAJ.Y
-Reg.No: 212223230217
+Developed by: VISHNU KM
+Reg.No: 212223240185
 import pandas as pd
 from sklearn import linear_model
 df=pd.read_csv("cars (1).csv")
